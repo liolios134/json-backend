@@ -1,0 +1,16 @@
+{
+  "name": "json-shoeshop",
+  "version": "1.0.0",
+  "description": "json compatibility for shoeshop angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Liolios",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
